@@ -1,0 +1,9 @@
+C:\Users\tqvinh\source\repos\txnqd\TwoPhaseSolver\bin\Debug\netstandard2.0\TwoPhaseSolver.deps.json
+C:\Users\tqvinh\source\repos\txnqd\TwoPhaseSolver\bin\Debug\netstandard2.0\TwoPhaseSolver.dll
+C:\Users\tqvinh\source\repos\txnqd\TwoPhaseSolver\bin\Debug\netstandard2.0\TwoPhaseSolver.pdb
+C:\Users\tqvinh\source\repos\txnqd\TwoPhaseSolver\obj\Debug\netstandard2.0\TwoPhaseSolver.csproj.CoreCompileInputs.cache
+C:\Users\tqvinh\source\repos\txnqd\TwoPhaseSolver\obj\Debug\netstandard2.0\TwoPhaseSolver.AssemblyInfoInputs.cache
+C:\Users\tqvinh\source\repos\txnqd\TwoPhaseSolver\obj\Debug\netstandard2.0\TwoPhaseSolver.AssemblyInfo.cs
+C:\Users\tqvinh\source\repos\txnqd\TwoPhaseSolver\obj\Debug\netstandard2.0\TwoPhaseSolver.dll
+C:\Users\tqvinh\source\repos\txnqd\TwoPhaseSolver\obj\Debug\netstandard2.0\TwoPhaseSolver.pdb
+C:\Users\tqvinh\source\repos\txnqd\TwoPhaseSolver\obj\Debug\netstandard2.0\TwoPhaseSolver.csprojAssemblyReference.cache

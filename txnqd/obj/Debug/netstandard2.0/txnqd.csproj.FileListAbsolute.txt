@@ -1,0 +1,12 @@
+C:\Users\tqvinh\source\repos\txnqd\txnqd\obj\Debug\netstandard2.0\txnqd.csprojAssemblyReference.cache
+C:\Users\tqvinh\source\repos\txnqd\txnqd\obj\Debug\netstandard2.0\txnqd.csproj.CoreCompileInputs.cache
+C:\Users\tqvinh\source\repos\txnqd\txnqd\obj\Debug\netstandard2.0\txnqd.AssemblyInfoInputs.cache
+C:\Users\tqvinh\source\repos\txnqd\txnqd\obj\Debug\netstandard2.0\txnqd.AssemblyInfo.cs
+C:\Users\tqvinh\source\repos\txnqd\txnqd\bin\Debug\netstandard2.0\txnqd.deps.json
+C:\Users\tqvinh\source\repos\txnqd\txnqd\bin\Debug\netstandard2.0\txnqd.dll
+C:\Users\tqvinh\source\repos\txnqd\txnqd\bin\Debug\netstandard2.0\txnqd.pdb
+C:\Users\tqvinh\source\repos\txnqd\txnqd\bin\Debug\netstandard2.0\TwoPhaseSolver.dll
+C:\Users\tqvinh\source\repos\txnqd\txnqd\bin\Debug\netstandard2.0\TwoPhaseSolver.pdb
+C:\Users\tqvinh\source\repos\txnqd\txnqd\obj\Debug\netstandard2.0\txnqd.csproj.CopyComplete
+C:\Users\tqvinh\source\repos\txnqd\txnqd\obj\Debug\netstandard2.0\txnqd.dll
+C:\Users\tqvinh\source\repos\txnqd\txnqd\obj\Debug\netstandard2.0\txnqd.pdb
